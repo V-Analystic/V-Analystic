@@ -1,5 +1,5 @@
 # How to upload a project to GitHub from scratch
-##Follow these steps to upload a project to GitHub:
+Follow these steps to upload a project to GitHub:
 
 1. Make new repository on Github page
 2. Open github in your destination local folder --> cd "your-folder"
