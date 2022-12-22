@@ -16,7 +16,7 @@ Follow these steps to upload a project to GitHub:
 
 # How to download a project to GitHub from scratch
 Follow these steps to download a project to GitHub:
-1. Go to the repository you want to download / clone
+1. Go to the repository you want to download / clone --> copy the repository link 
 2. Open github in your destination local folder --> cd "your-folder"
 3. git clone https://github.com/..... (repository that you want to clone)
 4. Voilaa!
